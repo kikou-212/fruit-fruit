@@ -1,0 +1,113 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    background-size: auto;
+
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 40px;
+    margin: 0px 20px 20px;
+    color: #F7E90F;
+}
+
+.nav h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #F43601;
+    font-size: 60px;
+
+}
+
+.box {
+    margin-top: 50px;
+}
+
+.cover-photo {
+    background-image: url(./image/coverfito1.jpeg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+}
+
+.cover-photo h2 {
+    font-size: 70px;
+}
+
+.cover-photo h1 {
+    color: #FA6102;
+    font-size: 80px;
+}
+
+.cover-photo h3 {
+    font-size: 50px;
+}
+
+.cover-photo button {
+    background-color: #FF1900;
+    padding: 30px;
+    border: transparent;
+    border-radius: 15px;
+    margin-left: 150px;
+    font-size: 25px;
+}
+
+.pos h1 {
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pos button {
+    background-color: #1EF70F;
+    padding: 30px;
+    border: transparent;
+    border-radius: 15px;
+    
+    margin-right: 50px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+.pos{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px;
+    margin-top: 100px;
+    width: 20%;
+
+
+}
+.img-box img{
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+
+}
+.prs { font-size: 15px;
+    border: solid 1px;
+    width: 40px;
+background-color: #FA6102; 
+color: white;   
+
+}
+.p1{
+    font-size: 30px ;
+
+}
+.p2{
+    font-size: 45px;
+    margin-left: ;
+}
